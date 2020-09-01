@@ -5,7 +5,7 @@
 - 📫 How to reach me: @vasujain 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I had a winning streak of hackathons between 2013 to 2018 (Atleast one hackathon win in the calendar year)
-- 💬 Ask me about: APIs, Slack, Hackathons, Architecting projects 
+- 💬 Ask me about: APIs, Slack, Hackathons, Architecting projects, Home Automation, How not to DIY in your Home
 - 🌱 I’m currently learning: 🐍 
 
 <!--
