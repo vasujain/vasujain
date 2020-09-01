@@ -1,3 +1,5 @@
+[![Vasu Jain](https://pbs.twimg.com/profile_banners/35442559/1411953440/1500x500)](https://twitter.com/vasujain)
+
 ### Hi there 👋
 - 🔭 I’m currently working on building apps, integrations, bots to bring best Slack Experience to developers, consumers & our special business partners. 
 - 📫 How to reach me: @vasujain 
