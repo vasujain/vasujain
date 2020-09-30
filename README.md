@@ -8,9 +8,9 @@
 - 💬 Ask me about: APIs, Slack, Hackathons, Architecting projects, Home Automation, How not to DIY in your Home
 - 🌱 I’m currently learning: 🐍 
 
-- ✨✨✨ AngelHack Grand Prize Winner in 2016 along with [Ruchi] (https://github.com/ruchi-jain)
-[![AngelHack Grand Prize Winner in 2016 was one of the biggest win we had](https://github.com/vasujain/vasujain/blob/master/Screen%20Shot%202020-09-30%20at%2011.57.16%20AM.png)](https://twitter.com/AngelHack/status/719305067984125952)
+- ✨✨✨ AngelHack Grand Prize Winner in 2016 along with [Ruchi](https://github.com/ruchi-jain)
 
+[![AngelHack Grand Prize Winner in 2016 was one of the biggest win we had](https://github.com/vasujain/vasujain/blob/master/Screen%20Shot%202020-09-30%20at%2011.57.16%20AM.png)](https://twitter.com/AngelHack/status/719305067984125952)
 
 <!--
 **vasujain/vasujain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
