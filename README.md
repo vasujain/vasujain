@@ -4,9 +4,12 @@
 - 🔭 I’m currently working on building apps, integrations, bots to bring best Slack Experience to developers, consumers & our special business partners. 
 - 📫 How to reach me: @vasujain 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I had a winning streak of hackathons between 2013 to 2018 (Atleast one hackathon win in the calendar year)
+- ⚡ Fun fact: I had a winning streak of hackathons between 2013 to 2018 (Atleast one hackathon win in the calendar year) + a [Github / Dev.To Hackathon](https://dev.to/devteam/github-actions-hackathon-winners-announced-38o2) in 2020
 - 💬 Ask me about: APIs, Slack, Hackathons, Architecting projects, Home Automation, How not to DIY in your Home
 - 🌱 I’m currently learning: 🐍 
+
+[![AngelHack Grand Prize Winner in 2016 was one of the biggest win we had](https://github.com/vasujain/vasujain/blob/master/Screen%20Shot%202020-09-30%20at%2011.57.16%20AM.png)](https://twitter.com/AngelHack/status/719305067984125952)
+
 
 <!--
 **vasujain/vasujain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
