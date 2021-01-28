@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on building apps, integrations, bots to bring best Slack Experience to developers, consumers & our special business partners. 
 - 📫 How to reach me: @vasujain 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I had a winning streak of hackathons between 2013 to 2018 (Atleast one hackathon win in the calendar year) + a [Github / Dev.To Hackathon](https://dev.to/devteam/github-actions-hackathon-winners-announced-38o2) in 2020
+- ⚡ Fun fact: I had a winning streak of hackathons between 2013 to 2018 (Atleast one hackathon win in the calendar year) + a [Github / Dev.To Hackathon](https://dev.to/devteam/github-actions-hackathon-winners-announced-38o2) and Slack Hackathon (Internal Employees only) in 2020. Yet to win in 2021
 - 💬 Ask me about: APIs, Slack, Hackathons, Architecting projects, Home Automation, How not to DIY in your Home
 - 🌱 I’m currently learning: 🐍 
 
